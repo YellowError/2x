@@ -1,0 +1,14 @@
+{
+  "name": "02-final-NodeJs",
+  "version": "1.0.0",
+  "description": "Creation Server express + templating",
+  "main": "start.js",
+  "author": "Julien Iannello",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-hbs": "^2.3.4",
+    "mongoose": "^5.10.3"
+  }
+}
